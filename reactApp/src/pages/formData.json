@@ -1,0 +1,70 @@
+{
+    "sampleReach": {
+        "dateCreated": "2020-07-30",
+        "reachName": "Helper reachName",
+        "locations": ["Sevilla", "Valencia"],
+        "start": "2020-08-12",
+        "end": "2020-08-28",
+        "backtrackStart": "2020-05-12",
+        "backtrackEnd": "2020-05-28",
+        "mediums": ["Paper", "Digital"],
+        "ages": ["19-26", "27-39"],
+        "selectedSegments": ["Cars", "Planes"],
+        "genders": ["Men", "Women"]    
+    },
+    "names": {
+        "mediumNames": [
+            "Paper",
+            "Digital"
+        ],
+        "ageNames": [
+            "19-26",
+            "27-39",
+            "40-49",
+            "50-65",
+            "60-90"
+        ],
+        "genderNames": [
+            "Men",
+            "Women"
+        ]
+    },
+    "helperTexts": {
+        "valid": {
+            "reachName": "Name your reach",
+            "locations": "Select locations to advertise in",
+            "date": "Select a period of time for advertising",
+            "backtrack": "Select period of backtrack data",
+            "mediums": "Select advertisement mediums",
+            "ages": "Select target audience age groups",
+            "segments": "Select market segments that fit your product",
+            "genders": "Select target genders",
+            "comments": "Is there anything else you'd like to add?"
+        },
+        "error": {
+            "reachName": [
+                "Must be more than four characters",
+                "Cannot contain a space"
+            ],
+            "locations": [
+                "Select at least one city"
+            ],
+            "date": [
+                "Must be at most 15 days",
+                "Choose a start and end date"
+            ],
+            "mediums": [
+                "Choose at least one age group"
+            ],
+            "ages": [
+                "Choose at least one age group"
+            ],
+            "segments": [
+                "Select at least one segment"
+            ],
+            "genders": [
+                "Select at least one gender"
+            ]
+        }
+    }
+}
