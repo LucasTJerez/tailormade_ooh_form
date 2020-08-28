@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "homepage": "http://LucasTJerez.github.io/tailormade_ooh_form",
+  "homepage": "http://LucasTJerez.github.io/di-dashboard-ooh",
   "description": "Dashboard OOH",
   "keywords": [
     "react",
@@ -47,6 +47,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "http://pre-svc-audience-dash-phbtailormade.apps-dev.hi.inet/di-dashboard-ooh"
+  ]
 }
