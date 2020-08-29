@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b8ac8095cfbdecaa81b4c86d0c412cc",
+    "revision": "ea730905c5e28ae90eb96ab90fce7010",
     "url": "/tailormade_ooh_form/index.html"
   },
   {
-    "revision": "e528c5978d9c62474e6a",
+    "revision": "f8d5a9c70d700cd0bcbe",
     "url": "/tailormade_ooh_form/static/css/2.c24a8002.chunk.css"
   },
   {
-    "revision": "087937f3b90573984170",
+    "revision": "a3787fa1562fba1900e7",
     "url": "/tailormade_ooh_form/static/css/main.ef26b1e4.chunk.css"
   },
   {
-    "revision": "e528c5978d9c62474e6a",
-    "url": "/tailormade_ooh_form/static/js/2.a7fceeae.chunk.js"
+    "revision": "f8d5a9c70d700cd0bcbe",
+    "url": "/tailormade_ooh_form/static/js/2.e6c11b04.chunk.js"
   },
   {
     "revision": "c618162c7254fafac9264ad7b5080539",
-    "url": "/tailormade_ooh_form/static/js/2.a7fceeae.chunk.js.LICENSE.txt"
+    "url": "/tailormade_ooh_form/static/js/2.e6c11b04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "087937f3b90573984170",
-    "url": "/tailormade_ooh_form/static/js/main.051ec1c9.chunk.js"
+    "revision": "a3787fa1562fba1900e7",
+    "url": "/tailormade_ooh_form/static/js/main.556af3ce.chunk.js"
   },
   {
     "revision": "cdf1bf16663d6d80b361",

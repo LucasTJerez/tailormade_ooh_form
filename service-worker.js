@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tailormade_ooh_form/precache-manifest.6de41e6b30a03d06928bcd9ae3563fa5.js"
+  "/tailormade_ooh_form/precache-manifest.ade6deda7068966aa10b48caf3cbbcf6.js"
 );
 
 self.addEventListener('message', (event) => {
